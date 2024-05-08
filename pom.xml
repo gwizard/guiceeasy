@@ -19,8 +19,8 @@
     </properties>
 
     <scm>
-        <url>scm:git:https://github.com/gwizard/gwizard.git</url>
-        <developerConnection>scm:git:git@github.com:gwizard/gwizard.git</developerConnection>
+        <url>scm:git:https://github.com/gwizard/guiceeasy.git</url>
+        <developerConnection>scm:git:git@github.com:gwizard/guiceeasy.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
